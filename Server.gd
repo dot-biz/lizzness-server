@@ -38,7 +38,12 @@ func client_connected(id: int):
 
 func client_disconnected(id: int):
 	print('Client %s disconnected!' % str(id))
-	get_node("root/clients/%s" % str(id)).queue_free()
+	var to_delete = get_node("/root/clients/%s" % str(id))
+	if to_delete:
+		print('Cleaning up client node %s.' % str(id))
+		to_delete.queue_free()
+	else:
+		print('WARNING: Attempted to clean node %s, but it does not exist!' % str(id))
 
 func _process(delta: float):
 	if server.is_listening():
