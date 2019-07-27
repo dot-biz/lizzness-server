@@ -1,0 +1,17 @@
+The server may return the following error codes in response to a request.
+
+Error codes are organized by context:
+
+ > 0000-0999: Initial connection
+ > 1000-1999: Game-creation and joining
+ > 
+
+
+Specific codes are listed below:
+
+== 0000-0999: Initial Connection ==
+
+== 1000-1999: Game-creation and joining ==
+
+ > 1000: Game name not found
+ > 1500: Invalid room code
