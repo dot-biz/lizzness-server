@@ -1,6 +1,7 @@
 extends Node
 
 signal CREATE_ROOM
+signal DISCONNECTED
 signal JOIN_ROOM
 
 var id: int
@@ -18,7 +19,13 @@ remote func join_room(room_code: int):
 
 func confirm_create(response):
 	rpc_id(id, 'create_game_response', response)
-	rpc_id(id, 'join_game_response', response)
+	if response['success']:
+		emit_signal('JOIN_ROOM', get_tree().get_rpc_sender_id(), response['room_code'])
 
 func confirm_join(response):
 	rpc_id(id, 'join_game_response', response)
+	if response['success']:
+		get_node('/root/games/%s' % str(response['room_code'])).synchronize_player_list()
+
+func pre_delete():
+	emit_signal('DISCONNECTED', id)

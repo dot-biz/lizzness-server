@@ -35,12 +35,13 @@ func join_room(client_id: int, room_code: int):
 			'reason': 1500
 		}
 	
-	var room = get_node('/games/%s' % str(room_code))
+	var room = get_node('/root/games/%s' % str(room_code))
 	var add_attempt = room.attempt_add(client_id)
 	if not add_attempt['success']:
 		return add_attempt
 	
 	return {
 		'success': true,
-		'reason': 0000
+		'reason': 0000,
+		'room_code': room_code
 	}

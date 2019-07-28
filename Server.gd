@@ -41,6 +41,7 @@ func client_disconnected(id: int):
 	var to_delete = get_node("/root/clients/%s" % str(id))
 	if to_delete:
 		print('Cleaning up client node %s.' % str(id))
+		to_delete.pre_delete()
 		to_delete.queue_free()
 	else:
 		print('WARNING: Attempted to clean node %s, but it does not exist!' % str(id))
