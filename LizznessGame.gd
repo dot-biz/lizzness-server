@@ -13,6 +13,8 @@ var game_state: int
 var day_number: int
 var day_state: int
 
+var human_win_count: int
+
 func _ready():
 	pass
 
@@ -31,14 +33,16 @@ func attempt_add(client_id: int):
 			print('Player %s is already in room %s. Not re-adding.' % [str(client_id), str(room_code)])
 			return {
 				'success': true,
-				'reason': 0000
+				'reason': 0000,
+				'player': player
 			}
 	print('Attempting to add player %s to room %s.' % [str(client_id), str(room_code)])
 	if len(players) < MAX_PLAYERS:
-		addPlayer(client_id)
+		var player_struct = addPlayer(client_id)
 		return {
 			'success': true,
-			'reason': 0000
+			'reason': 0000,
+			'player': player_struct
 		}
 	else:
 		return {
@@ -48,16 +52,20 @@ func attempt_add(client_id: int):
 
 func addPlayer(client_id: int):
 	print('Player %s joined room %s' % [str(client_id), str(room_code)])
-	players.append({
+	var player_dict = {
 		'id': client_id,
 		'nick': str(client_id),
 		'role': CLIENT_ROLE.PLAYER
-	})
+	}
+	
+	players.append(player_dict)
 	
 	var player_obj = get_node('/root/clients/%s' % str(client_id))
 	player_obj.connect('DISCONNECTED', self, '_on_player_disconnect')
 	
 	synchronize_player_list()
+	
+	return player_dict
 
 func synchronize_player_list():
 	print('Checking if screen/admin both exist.')

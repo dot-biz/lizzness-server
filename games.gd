@@ -43,5 +43,6 @@ func join_room(client_id: int, room_code: int):
 	return {
 		'success': true,
 		'reason': 0000,
-		'room_code': room_code
+		'room_code': room_code,
+		'player': add_attempt['player']
 	}
