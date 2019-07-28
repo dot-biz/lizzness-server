@@ -17,3 +17,7 @@ Specific codes are listed below:
  > 1000: Game name not found
  > 1500: Invalid room code
  > 1501: Room full
+
+== 9000-9999: Disconnect reasons ==
+
+ > 9000: Game-room dissolving due to vital player disconnect

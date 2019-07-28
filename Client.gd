@@ -29,3 +29,7 @@ func confirm_join(response):
 
 func pre_delete():
 	emit_signal('DISCONNECTED', id)
+
+func kick(reason):
+	rpc_id(id, 'server_force_disconnect', reason)
+	get_node('/root/Server').client_disconnected(id)
