@@ -21,12 +21,13 @@ func create_room(client_id: int, game_name: String):
 	add_child(game)
 	game.initialize(client_id, room_code)
 	
+	game.connect('READY_TO_START', self, '_ready_to_start')
 	return {
 		'success': true,
 		'reason': 0000,
 		'room_code': room_code
 	}
-
+	
 func join_room(client_id: int, room_code: int):
 	if not has_node(str(room_code)):
 		return {
