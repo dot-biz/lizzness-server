@@ -10,18 +10,202 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="264.98959mm"
-   height="124.6879mm"
-   viewBox="0 0 264.98959 124.6879"
+   width="294.14508mm"
+   height="150.84589mm"
+   viewBox="0 0 294.14508 150.84589"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="network-flow-start-game.svg"
+   sodipodi:docname="network-flow-game-create.svg"
    inkscape:export-filename="/home/disgruntledgm/src/lizzness-server/Documents/network-flow-game-create.png"
-   inkscape:export-xdpi="196.03999"
-   inkscape:export-ydpi="196.03999">
+   inkscape:export-xdpi="172.7"
+   inkscape:export-ydpi="172.7">
   <defs
      id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4545"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4543" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3940"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3938" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3646"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3644" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3182"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path3180" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker3083"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path3081"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2687"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2685" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2109"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2107" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1621"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1619"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1477"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1475" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1277"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1275" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1071"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1069" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1047"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutL"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1045" />
+    </marker>
     <marker
        inkscape:isstock="true"
        style="overflow:visible"
@@ -74,7 +258,8 @@
        refX="0"
        id="marker23196"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path23194"
          d="M 5.77,0 -2.88,5 V -5 Z"
@@ -444,7 +629,8 @@
        refX="0"
        id="marker4178-5-8"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path4176-2-6"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
@@ -500,6 +686,37 @@
          transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker12813-8-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path12811-9-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2687-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2685-9" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -508,17 +725,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4741582"
-     inkscape:cx="377.34699"
-     inkscape:cy="275.23039"
+     inkscape:zoom="2.0847745"
+     inkscape:cx="633.49873"
+     inkscape:cy="182.40589"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-text-baseline="true"
-     inkscape:window-width="936"
-     inkscape:window-height="1017"
-     inkscape:window-x="1616"
-     inkscape:window-y="366"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="1600"
+     inkscape:window-y="350"
      inkscape:window-maximized="0"
      fit-margin-top="10"
      fit-margin-left="10"
@@ -527,8 +744,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid815"
-       originx="-28.239582"
-       originy="-149.94613" />
+       originx="-28.239581"
+       originy="-123.78815" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -547,6 +764,20 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-28.239582,-22.365956)">
+    <rect
+       y="150.15623"
+       x="93.397919"
+       height="2.6458342"
+       width="8.4666653"
+       id="rect4491"
+       style="fill:#020200;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:#020200;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4489"
+       width="10.583329"
+       height="2.6458342"
+       x="80.697922"
+       y="150.15623" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect817"
@@ -567,7 +798,7 @@
          style="text-align:center;text-anchor:middle;stroke-width:0.26458332">User</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000002, 0.75000002;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 44.979166,43.000009 10e-7,93.927071"
+       d="m 44.979166,43.000009 10e-7,119.062471"
        id="path823"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -597,18 +828,18 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1152)"
-       d="M 75.406265,131.63541 H 44.979177"
+       d="M 75.406245,156.77081 H 44.979157"
        id="path1148"
        inkscape:connector-curvature="0" />
     <text
        id="text1180"
-       y="130.31248"
-       x="47.625008"
+       y="155.44789"
+       x="47.624989"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="stroke-width:0.26458332"
-         y="130.31248"
-         x="47.625008"
+         y="155.44789"
+         x="47.624989"
          sodipodi:role="line"
          id="tspan27876">Display lobby</tspan></text>
     <rect
@@ -652,7 +883,9 @@
          id="tspan819-7-0-0"
          x="205.05209"
          y="41.677082"
-         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">/root/clients/&lt;id&gt;</tspan></text>
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">/root/clients/&lt;<tspan
+   style="fill:#dd5b12;fill-opacity:1"
+   id="tspan4222">id</tspan>&gt;</tspan></text>
     <rect
        y="53.583328"
        x="203.72917"
@@ -701,7 +934,7 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#EmptyTriangleOutL)"
        sodipodi:nodetypes="cc" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#1cffbb;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect817-3-2-3-6"
        width="21.166674"
        height="3.9687512"
@@ -717,7 +950,9 @@
          id="tspan819-7-0-0-6"
          x="134.93752"
          y="41.677074"
-         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">/root/clients/&lt;id&gt;</tspan></text>
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">/root/clients/&lt;<tspan
+   style="fill:#dd5b12;fill-opacity:1"
+   id="tspan4404">id</tspan>&gt;</tspan></text>
     <rect
        y="50.937496"
        x="133.61458"
@@ -734,13 +969,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="34.395832"
-       y="29.770819"
+       x="39.6875"
+       y="32.416653"
        id="text8678"><tspan
          sodipodi:role="line"
          id="tspan8676"
-         x="34.395832"
-         y="29.770819"
+         x="39.6875"
+         y="32.416653"
          style="stroke-width:0.26458332">Game creation flow</tspan></text>
     <rect
        y="39.031246"
@@ -768,7 +1003,7 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000003, 0.75000003;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000003, 0.75000003;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 76.729167,53.583328 V 111.79166"
+       d="M 76.729167,53.583328 V 136.92707"
        id="path12013"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -803,15 +1038,25 @@
        sodipodi:nodetypes="cc" />
     <text
        id="text12809"
-       y="48.826191"
-       x="80.804688"
+       y="49.085403"
+       x="78.845833"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="stroke-width:0.26458332"
-         y="48.826191"
-         x="80.804688"
+         y="49.085403"
+         x="78.845833"
          id="tspan12807"
-         sodipodi:role="line">signal CREATE_ROOM()</tspan></text>
+         sodipodi:role="line">signal CREATE_ROOM(</tspan><tspan
+         style="stroke-width:0.26458332;fill:#a4677e;fill-opacity:1"
+         y="51.731236"
+         x="78.845833"
+         sodipodi:role="line"
+         id="tspan4449">game_name</tspan><tspan
+         style="stroke-width:0.26458332"
+         y="54.377071"
+         x="78.845833"
+         sodipodi:role="line"
+         id="tspan4451">)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -822,7 +1067,9 @@
          id="tspan16198"
          x="137.58333"
          y="52.26041"
-         style="stroke-width:0.26458332">rpc create_room(game_name)</tspan></text>
+         style="stroke-width:0.26458332">rpc create_room(<tspan
+   style="fill:#a4677e;fill-opacity:1"
+   id="tspan4232">game_name</tspan>)</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect817-3-2-3-2"
@@ -870,7 +1117,11 @@
          id="tspan2920-3"
          x="174.625"
          y="66.812492"
-         style="stroke-width:0.26458332">create(user_id, game_name)</tspan></text>
+         style="stroke-width:0.26458332">create_room(<tspan
+   style="fill:#dd5b12;fill-opacity:1"
+   id="tspan4220">user_id</tspan>, <tspan
+   style="fill:#a4677e;fill-opacity:1"
+   id="tspan4336">game_name</tspan>)</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path17306"
@@ -880,21 +1131,45 @@
     <text
        id="text18886"
        y="76.072899"
-       x="175.94792"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="232.72115"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
-         style="stroke-width:0.26458332"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
          y="76.072899"
-         x="175.94792"
+         x="232.72115"
          id="tspan18884"
-         sodipodi:role="line">return room_id</tspan></text>
+         sodipodi:role="line">return <tspan
+   style="fill:#af35e9;fill-opacity:1"
+   id="tspan4102">response</tspan> = {</tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="78.718735"
+         x="232.72115"
+         sodipodi:role="line"
+         id="tspan4094">'success': true,</tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="81.364563"
+         x="232.72115"
+         sodipodi:role="line"
+         id="tspan4098">'reason': 0000,</tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="84.010399"
+         x="232.72115"
+         sodipodi:role="line"
+         id="tspan4100">'room_code': <tspan
+   style="fill:#008835;fill-opacity:1"
+   id="tspan4127">room_code</tspan></tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="86.656235"
+         x="232.72115"
+         sodipodi:role="line"
+         id="tspan4096">}</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect817-3-2-3-2-1"
-       width="23.81251"
-       height="3.9687514"
-       x="259.29166"
-       y="69.458328" />
+       width="26.458334"
+       height="3.9687483"
+       x="257.96875"
+       y="69.458321" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -905,10 +1180,12 @@
          id="tspan819-7-0-0-9-4"
          x="271.19791"
          y="72.104164"
-         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">/root/games/&lt;room_id&gt;</tspan></text>
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">/root/games/&lt;<tspan
+   style="fill:#008835;fill-opacity:1"
+   id="tspan4133">room_code</tspan>&gt;</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2252-6-7)"
-       d="m 239.44795,69.45833 h 19.84374"
+       d="m 239.44795,69.45833 18.5208,-1.1e-5"
        id="path2248-2-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -922,7 +1199,9 @@
          id="tspan2920-3-0"
          x="240.77083"
          y="68.135414"
-         style="stroke-width:0.26458332">Create</tspan></text>
+         style="stroke-width:0.26458332">Create appropriate Game object for <tspan
+   style="fill:#a4677e;fill-opacity:1"
+   id="tspan4340">game_name</tspan></tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000005, 0.75000005;stroke-dashoffset:0;stroke-opacity:1"
        d="m 271.19794,73.42708 v 2.645833"
@@ -948,18 +1227,27 @@
        y="74.75"
        id="text2922-9-0"><tspan
          sodipodi:role="line"
-         id="tspan2920-3-6"
          x="240.77084"
          y="74.75"
-         style="stroke-width:0.26458332">initialize(room_id,</tspan><tspan
+         style="stroke-width:0.26458332"
+         id="tspan21234">initialize(</tspan><tspan
          sodipodi:role="line"
          x="240.77084"
          y="77.395836"
          style="stroke-width:0.26458332"
-         id="tspan21234">room_boss)</tspan></text>
+         id="tspan4121"><tspan
+   style="fill:#dd5b12;fill-opacity:1"
+   id="tspan4224">user_id</tspan>, <tspan
+   style="fill:#008835;fill-opacity:1"
+   id="tspan4125">room_code</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="240.77084"
+         y="80.041664"
+         style="stroke-width:0.26458332"
+         id="tspan4119">)</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000004, 0.75000004;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 205.05208,57.552078 0,22.489574"
+       d="M 205.05208,57.552078 V 80.041652"
        id="path21242"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -967,7 +1255,7 @@
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect21244"
        width="2.6458282"
-       height="15.874997"
+       height="13.229167"
        x="203.72917"
        y="80.041649" />
     <path
@@ -986,44 +1274,28 @@
          y="82.687485"
          x="202.40623"
          sodipodi:role="line"
-         id="tspan26241">rpc create_game_response({</tspan><tspan
-         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
-         y="85.333321"
-         x="202.40623"
-         sodipodi:role="line"
-         id="tspan26245">'success':true,'room_id':&lt;room_id&gt;</tspan><tspan
-         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
-         y="87.979149"
-         x="202.40623"
-         sodipodi:role="line"
-         id="tspan26247">})</tspan></text>
+         id="tspan26247">rpc create_game_response(<tspan
+   style="fill:#af35e9;fill-opacity:1"
+   id="tspan4109">response</tspan>)</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path23188"
-       d="M 203.72919,93.270833 H 136.26044"
+       d="M 203.72917,118.40623 H 136.26042"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker23196)"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="202.40627"
-       y="91.947914"
+       x="202.40625"
+       y="117.08331"
        id="text23192"><tspan
          sodipodi:role="line"
-         id="tspan23190"
-         x="202.40627"
-         y="91.947914"
-         style="text-align:end;text-anchor:end;stroke-width:0.26458332">rpc join_game_response({</tspan><tspan
-         sodipodi:role="line"
-         x="202.40627"
-         y="94.59375"
+         x="202.40625"
+         y="117.08331"
          style="text-align:end;text-anchor:end;stroke-width:0.26458332"
-         id="tspan26249">'success':true,'room_id':&lt;room_id&gt;</tspan><tspan
-         sodipodi:role="line"
-         x="202.40627"
-         y="97.239578"
-         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
-         id="tspan26251">})</tspan></text>
+         id="tspan26251">rpc join_game_response(<tspan
+   style="fill:#359ee9;fill-opacity:1"
+   id="tspan2810">response</tspan>)</tspan></text>
     <rect
        y="84.010399"
        x="133.61459"
@@ -1041,35 +1313,37 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path23586"
-       d="m 238.12502,77.39583 v 59.53124"
+       d="m 238.12502,77.39583 -2e-5,26.45832"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000004, 0.75000004;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path23588"
-       d="M 271.19794,82.687496 V 136.92707"
+       d="m 271.19794,82.687496 -2e-5,22.489574"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000005, 0.75000005;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:#ffbe1c;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect817-3-2-3-2-1-3"
-       width="23.81251"
-       height="3.9687514"
-       x="105.83337"
-       y="95.916664" />
+       width="24.870832"
+       height="3.9687483"
+       x="105.30417"
+       y="121.05207" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="117.73962"
-       y="98.562492"
+       x="117.73959"
+       y="123.69789"
        id="text821-6-7-6-8-9-2"><tspan
          sodipodi:role="line"
          id="tspan819-7-0-0-9-4-0"
-         x="117.73962"
-         y="98.562492"
-         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">/root/games/&lt;room_id&gt;</tspan></text>
+         x="117.73959"
+         y="123.69789"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332">/root/games/&lt;<tspan
+   style="fill:#008835;fill-opacity:1"
+   id="tspan4160">room_code</tspan>&gt;</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000006, 0.75000006;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 117.73962,99.885413 v 2.645827"
+       d="m 117.7396,125.02081 v 2.64583"
        id="path20019-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1078,95 +1352,102 @@
        id="rect20021-1"
        width="2.6458282"
        height="2.6458309"
-       x="116.41669"
-       y="102.53124" />
+       x="116.41666"
+       y="127.66664" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path23588-5"
-       d="m 117.7396,105.17708 v 31.74999"
+       d="m 117.73958,130.31248 v 11.90625"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000006, 0.75000006;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path17306-7"
-       d="m 133.6146,95.916663 h -3.96875"
+       d="m 133.61458,121.05206 -3.43958,1e-5"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker17310-5)"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="133.08543"
-       y="95.387497"
+       x="133.08542"
+       y="120.52289"
        id="text821-6-7-6-8-9-2-6"><tspan
          sodipodi:role="line"
          id="tspan819-7-0-0-9-4-0-5"
-         x="133.08543"
-         y="95.387497"
+         x="133.08542"
+         y="120.52289"
          style="text-align:end;text-anchor:end;stroke-width:0.26458332">Create</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker24905)"
-       d="M 133.6146,102.53124 H 119.06252"
+       d="M 133.61458,127.66664 H 119.0625"
        id="path24897"
        inkscape:connector-curvature="0" />
     <text
        id="text24901"
-       y="102.00208"
-       x="132.82085"
+       y="127.13748"
+       x="132.82083"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="text-align:end;text-anchor:end;stroke-width:0.26458332"
-         y="102.00208"
-         x="132.82085"
+         y="127.13748"
+         x="132.82083"
          id="tspan24899"
          sodipodi:role="line">initialize(</tspan><tspan
-         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
-         y="104.64792"
-         x="132.82085"
+         style="text-align:end;text-anchor:end;fill:#008835;fill-opacity:1;stroke-width:0.26458332"
+         y="129.78331"
+         x="132.82083"
          sodipodi:role="line"
-         id="tspan26239">room_id)</tspan></text>
+         id="tspan26239">room_code</tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="132.42915"
+         x="132.82083"
+         sodipodi:role="line"
+         id="tspan4113">)</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect26264"
        width="2.6458385"
        height="17.197914"
-       x="133.61459"
-       y="93.270836" />
+       x="133.61458"
+       y="118.40623" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path26266"
-       d="m 134.9375,86.656235 2e-5,6.614598"
+       d="M 134.9375,86.656235 V 118.40623"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000005, 0.75000005;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker26278)"
-       d="M 133.6146,110.46874 H 104.51044"
+       d="M 133.61458,135.60414 H 104.51042"
        id="path26274"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="105.83336"
-       y="113.11459"
+       x="105.83334"
+       y="138.25"
        id="text27818"><tspan
          sodipodi:role="line"
          id="tspan27816"
-         x="105.83336"
-         y="113.11459"
-         style="stroke-width:0.26458332">signal ROOM_JOINED(room_id)</tspan></text>
+         x="105.83334"
+         y="138.25"
+         style="stroke-width:0.26458332">signal ROOM_JOINED(<tspan
+   style="fill:#008835;fill-opacity:1"
+   id="tspan4162">room_code</tspan>)</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect27820"
        width="2.6458333"
        height="6.6145821"
-       x="75.406265"
-       y="125.02082" />
+       x="75.406242"
+       y="150.15622" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect28414"
-       width="2.6458232"
-       height="3.96875"
+       width="2.6458242"
+       height="1.5874907"
        x="101.86459"
        y="49.614578" />
     <path
@@ -1206,10 +1487,12 @@
          y="50.149109"
          x="107.26302"
          id="tspan29083"
-         sodipodi:role="line">create_room()</tspan></text>
+         sodipodi:role="line">create_room(<tspan
+   style="fill:#a4677e;fill-opacity:1"
+   id="tspan4453">game_name</tspan>)</tspan></text>
     <rect
-       y="110.46874"
-       x="101.86461"
+       y="135.60414"
+       x="101.86459"
        height="15.875"
        width="2.6458232"
        id="rect30297"
@@ -1218,87 +1501,87 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path30299"
-       d="M 103.1875,53.583328 V 110.46874"
+       d="m 103.1875,51.202069 0,84.402081"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000003, 0.75000003;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       y="111.79166"
-       x="75.406265"
+       y="136.92706"
+       x="75.406242"
        height="2.6458335"
        width="2.6458333"
        id="rect30361"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000003, 0.75000003;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 76.729179,114.43749 v 1.32292"
+       d="m 76.729159,139.57289 v 1.32292"
        id="path30363"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 75.935428,114.96666 1.5875,1.5875"
+       d="m 75.935408,140.10206 1.5875,1.5875"
        id="path30365"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 75.935428,116.55416 1.5875,-1.5875"
+       d="m 75.935408,141.68956 1.5875,-1.5875"
        id="path30367"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4178-5)"
-       d="M 101.60002,111.79166 H 78.316682"
+       d="M 101.6,136.92706 H 78.316662"
        id="path4170-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        id="text4174-4"
-       y="110.99792"
-       x="100.54168"
+       y="136.13332"
+       x="100.54166"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="text-align:end;text-anchor:end;stroke-width:0.26458332"
-         y="110.99792"
-         x="100.54168"
+         y="136.13332"
+         x="100.54166"
          sodipodi:role="line"
          id="tspan8509-4">destroy()</tspan></text>
     <rect
-       y="117.08333"
-       x="68.791687"
+       y="142.21873"
+       x="68.791664"
        height="3.9687505"
        width="15.87499"
        id="rect9293-4"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        id="text9297-3"
-       y="119.72916"
-       x="76.729187"
+       y="144.86456"
+       x="76.729164"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         y="119.72916"
-         x="76.729187"
+         y="144.86456"
+         x="76.729164"
          id="tspan9295-0"
          sodipodi:role="line">/root/UI</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path9299-7"
-       d="m 76.729183,121.05208 v 3.96875"
+       d="m 76.729163,146.18748 v 3.96875"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000004, 0.75000004;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4178-5-8)"
-       d="M 101.8646,117.08332 H 84.931265"
+       d="M 101.86458,142.21872 H 84.931245"
        id="path4170-5-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        id="text4174-4-8"
-       y="116.28959"
-       x="100.80624"
+       y="141.42499"
+       x="100.80621"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="text-align:end;text-anchor:end;stroke-width:0.26458332"
-         y="116.28959"
-         x="100.80624"
+         y="141.42499"
+         x="100.80621"
          sodipodi:role="line"
          id="tspan32394">Create game UI</tspan></text>
     <rect
@@ -1306,20 +1589,20 @@
        id="rect32414"
        width="15.875"
        height="10.583333"
-       x="50.270847"
-       y="110.46874" />
+       x="50.270828"
+       y="135.60414" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect32416"
        width="18.520834"
        height="1.3229167"
-       x="48.947929"
-       y="109.14584" />
+       x="48.94791"
+       y="134.28125" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        id="flowRoot32418"
-       transform="translate(-1.3229014,39.687502)"><flowRegion
+       transform="translate(-1.3229217,64.822902)"><flowRegion
          id="flowRegion32420"
          style="text-align:justify;text-anchor:start"><use
            x="0"
@@ -1328,40 +1611,54 @@
            id="use32422"
            width="100%"
            height="100%"
-           transform="translate(1.3229014,-39.687502)" /></flowRegion><flowPara
+           transform="translate(1.3229217,-64.822902)" /></flowRegion><flowPara
          id="flowPara32424">Note: The main-menu UI is destroyed and replaced with the game UI, but they are both named /root/UI.</flowPara></flowRoot>    <rect
-       y="110.46874"
-       x="48.947929"
+       y="135.60414"
+       x="48.94791"
        height="11.906253"
        width="18.520834"
        id="rect32426"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 67.468765,109.14583 9.260416,7.93749"
+       d="m 67.468745,134.28123 9.260416,7.93749"
        id="path32428"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Lend-5-3-3)"
-       d="m 101.8646,124.75624 -23.812502,0.26458"
+       d="m 101.86458,150.15624 -23.812502,-2e-5"
        id="path854-2-5-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="80.804703"
-       y="124.23244"
+       x="80.80468"
+       y="149.36784"
        id="text1146-9-9-9"><tspan
          sodipodi:role="line"
          id="tspan1144-1-2-2"
-         x="80.804703"
-         y="124.23244"
-         style="stroke-width:0.26458332">initialize()</tspan></text>
+         x="80.80468"
+         y="149.36784"
+         style="stroke-width:0.26458332">initialize(</tspan><tspan
+         sodipodi:role="line"
+         x="80.80468"
+         y="152.01367"
+         style="stroke-width:0.26458332"
+         id="tspan4459"><tspan
+   style="fill:#1cffbb;fill-opacity:1"
+   id="tspan4463">client_obj</tspan>, <tspan
+   style="fill:#ffbe1c;fill-opacity:1"
+   id="tspan4465">game_obj</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="80.80468"
+         y="154.65952"
+         style="stroke-width:0.26458332"
+         id="tspan4461">)</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000004, 0.75000004;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 76.729182,131.63541 v 5.29166"
+       d="m 76.729162,156.77081 5e-6,1.32292"
        id="path33929"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1369,19 +1666,13 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path33931"
-       d="m 103.18752,126.34374 v 10.58333"
+       d="m 103.1875,151.47914 v 10.58333"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000004, 0.75000004;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path33931-0"
-       d="m 134.93752,110.46874 v 26.45833"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000005, 0.75000005;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path33931-6"
-       d="m 205.05208,95.916652 2e-5,41.010418"
+       d="m 134.9375,135.86872 0,12.9646"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000005, 0.75000005;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
@@ -1404,7 +1695,11 @@
          y="59.40416"
          x="202.40625"
          sodipodi:role="line"
-         id="tspan35394">user_id, game_name</tspan><tspan
+         id="tspan35394"><tspan
+   style="fill:#dd5b12;fill-opacity:1"
+   id="tspan4198">user_id</tspan>, <tspan
+   style="fill:#a4677e;fill-opacity:1"
+   id="tspan4338">game_name</tspan></tspan><tspan
          style="text-align:end;text-anchor:end;stroke-width:0.26458332"
          y="62.049995"
          x="202.40625"
@@ -1419,7 +1714,7 @@
        y="57.552078" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000005, 0.75000005;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 171.97917,68.135402 0,9.260417"
+       d="m 171.97917,68.135402 v 9.260417"
        id="path35952"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -1433,25 +1728,606 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="173.83125"
-       y="79.777069"
+       x="206.90414"
+       y="137.98541"
        id="text2922-9-9"><tspan
          sodipodi:role="line"
          id="tspan2920-3-5"
-         x="173.83125"
-         y="79.777069"
-         style="stroke-width:0.26458332">confirm_create(room_id)</tspan></text>
+         x="206.90414"
+         y="137.98541"
+         style="stroke-width:0.26458332">synchronize_player_list()</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2252-6-0)"
-       d="m 173.30208,80.041652 h 30.42709"
+       d="m 206.37498,138.25 63.50001,-1e-5"
        id="path2248-2-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path37997"
+       d="m 171.97917,80.041652 v 13.229164 m 0,10.583334 v 7.9375"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000005, 0.75000005;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1047)"
+       d="m 272.52083,107.8229 h 39.6875"
+       id="path1043"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1079"
+       y="107.02915"
+       x="273.31458"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="107.02915"
+         x="273.31458"
+         sodipodi:role="line"
+         id="tspan4519">rpc player_list_update({</tspan><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="109.67499"
+         x="273.31458"
+         sodipodi:role="line"
+         id="tspan4526">'players': <tspan
+   style="fill:#7b7b7b;fill-opacity:1"
+   id="tspan4521">new_player_list</tspan></tspan><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="112.32082"
+         x="273.31458"
+         sodipodi:role="line"
+         id="tspan4529">})</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path12805-6-2"
+       d="M 203.72917,93.270816 H 173.30208"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker12813-8-5)"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text12809-6-9"
+       y="92.477058"
+       x="202.40625"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="92.477058"
+         x="202.40625"
+         id="tspan12807-4-1"
+         sodipodi:role="line">signal JOIN_ROOM(</tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="95.122894"
+         x="202.40625"
+         sodipodi:role="line"
+         id="tspan35394-2"><tspan
+   style="fill:#dd5b12;fill-opacity:1"
+   id="tspan4228">user_id</tspan>, <tspan
+   style="fill:#008835;fill-opacity:1"
+   id="tspan4129">room_code</tspan></tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="97.768723"
+         x="202.40625"
+         sodipodi:role="line"
+         id="tspan35396-7">)</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1263"
+       width="2.6458333"
+       height="10.583337"
+       x="170.65625"
+       y="93.270813" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1267"
+       d="m 173.30208,103.85415 h 63.49999"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1277)" />
+    <text
+       id="text1271"
+       y="102.53123"
+       x="174.625"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="102.53123"
+         x="174.625"
+         id="tspan1269"
+         sodipodi:role="line">join_room(<tspan
+   style="fill:#dd5b12;fill-opacity:1"
+   id="tspan4230">user_id</tspan>, <tspan
+   style="fill:#008835;fill-opacity:1"
+   id="tspan4131">room_code</tspan>)</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1459"
+       width="2.6458385"
+       height="2.645834"
+       x="236.80208"
+       y="103.85415" />
+    <rect
+       y="105.17706"
+       x="269.875"
+       height="3.9687531"
+       width="2.6458333"
+       id="rect1461"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1465"
+       d="M 239.44792,105.17707 H 269.875"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1477)" />
+    <text
+       id="text1471"
+       y="103.85415"
+       x="240.77083"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan1469"
+         style="stroke-width:0.26458332"
+         y="103.85415"
+         x="240.77083"
+         sodipodi:role="line">attempt_add(<tspan
+   style="fill:#dd5b12;fill-opacity:1"
+   id="tspan4226">user_id</tspan>)</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1621)"
+       d="M 269.875,109.14582 H 239.44792"
+       id="path1611"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="268.55209"
+       y="108.35207"
+       id="text1615"><tspan
+         sodipodi:role="line"
+         x="268.55209"
+         y="108.35207"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan1613">return <tspan
+   style="fill:#359ee9;fill-opacity:1"
+   id="tspan2715">response </tspan>= {</tspan><tspan
+         sodipodi:role="line"
+         x="268.55209"
+         y="110.99791"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan2047">'success': true,</tspan><tspan
+         sodipodi:role="line"
+         x="268.55209"
+         y="113.64374"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan4111">'reason': 0000,</tspan><tspan
+         sodipodi:role="line"
+         x="268.55209"
+         y="116.28957"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan2051">'room_code': <tspan
+   style="fill:#008835;fill-opacity:1"
+   id="tspan4164">room_code</tspan>,</tspan><tspan
+         sodipodi:role="line"
+         x="268.55209"
+         y="118.93541"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan2045">'player': <tspan
+   style="fill:#a5b421;fill-opacity:1"
+   id="tspan4445">player_struct</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="268.55209"
+         y="121.58124"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan2083">}</tspan></text>
+    <rect
+       y="109.14581"
+       x="236.80208"
+       height="2.645834"
+       width="2.6458385"
+       id="rect2085"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000004, 0.75000004;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 238.125,106.49998 v 2.64584"
+       id="path2087"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
-       id="path37997"
-       d="m 171.97917,80.041652 0,56.885418"
+       id="path2091"
+       d="m 236.80208,111.79165 h -63.5"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2109)" />
+    <text
+       id="text2103"
+       y="110.9979"
+       x="235.47917"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan2101"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="110.9979"
+         x="235.47917"
+         sodipodi:role="line">return <tspan
+   style="fill:#359ee9;fill-opacity:1"
+   id="tspan2797">response</tspan></tspan></text>
+    <rect
+       y="111.79165"
+       x="170.65625"
+       height="2.645834"
+       width="2.6458333"
+       id="rect2349"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect32414-6"
+       width="15.875"
+       height="10.583333"
+       x="276.48959"
+       y="91.947899" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect32416-1"
+       width="18.520834"
+       height="1.3229167"
+       x="275.16669"
+       y="90.625" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.28001735px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot32418-8"
+       transform="matrix(3.7795276,0,0,3.7795276,-171.10122,-303.1522)"><flowRegion
+         id="flowRegion32420-7"
+         style="text-align:justify;text-anchor:start"><use
+           x="0"
+           y="0"
+           xlink:href="#rect32414-6"
+           id="use32422-9"
+           width="100%"
+           height="100%"
+           transform="matrix(0.26458333,0,0,0.26458333,45.27053,80.209017)" /></flowRegion><flowPara
+         id="flowPara32424-2">Note: This RPC is sent out to all clients in this game on every join event - in this case, no client is ready to receive it, so it has no effect</flowPara></flowRoot>    <rect
+       y="91.947899"
+       x="275.16669"
+       height="11.906253"
+       width="18.520834"
+       id="rect32426-0"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="114.43748"
+       x="203.72917"
+       height="23.812506"
+       width="2.6458282"
+       id="rect2665"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text2679"
+       y="114.17289"
+       x="173.83125"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="114.17289"
+         x="173.83125"
+         id="tspan2677"
+         sodipodi:role="line">confirm_join(<tspan
+   style="fill:#359ee9;fill-opacity:1"
+   id="tspan2799">response</tspan>)</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path2681"
+       d="m 173.30208,114.43748 h 30.42709"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2687)" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path2801"
+       d="M 205.05208,93.270816 V 114.43748"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000005, 0.75000005;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3069"
+       width="2.6458333"
+       height="3.9687531"
+       x="269.875"
+       y="138.24998" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3071"
+       d="m 271.19792,109.14582 v 29.10416"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000004, 0.75000004;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3073"
+       d="m 272.52082,142.21874 h 39.6875"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3083)"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="273.31458"
+       y="141.425"
+       id="text3077"><tspan
+         sodipodi:role="line"
+         x="273.31458"
+         y="141.425"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan4510">rpc player_list_update({</tspan><tspan
+         sodipodi:role="line"
+         x="273.31458"
+         y="144.07083"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan4516">'players': <tspan
+   style="fill:#40b68f;fill-opacity:1"
+   id="tspan4512">new_player_list</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="273.31458"
+         y="146.71667"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan4501">})</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect32414-6-2"
+       width="15.875"
+       height="10.583333"
+       x="280.45831"
+       y="147.51041" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect32416-1-3"
+       width="18.520834"
+       height="1.3229167"
+       x="279.13541"
+       y="146.1875" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.0987839px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot32418-8-7"
+       transform="matrix(14.284829,0,0,14.284829,-1681.0123,-1470.7159)"><flowRegion
+         id="flowRegion32420-7-5"
+         style="text-align:justify;text-anchor:start"><use
+           x="0"
+           y="0"
+           xlink:href="#rect32414-6-2"
+           id="use32422-9-9"
+           width="100%"
+           height="100%"
+           transform="matrix(0.07000434,0,0,0.07000434,117.40032,102.77127)" /></flowRegion><flowPara
+         id="flowPara32424-2-2">This RPC goes out to all connected clients - this time, including the one who created the room.</flowPara></flowRoot>    <rect
+       y="147.51041"
+       x="279.13541"
+       height="11.906253"
+       width="18.520834"
+       id="rect32426-0-2"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3182)"
+       d="M 269.87499,142.21874 H 119.06249"
+       id="path3172"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3176"
+       y="141.42499"
+       x="269.08124"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan3174"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="141.42499"
+         x="269.08124"
+         sodipodi:role="line">rpc player_list_update({</tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="144.07082"
+         x="269.08124"
+         sodipodi:role="line"
+         id="tspan4493">'players': <tspan
+   style="fill:#40b68f;fill-opacity:1"
+   id="tspan4497">new_player_list</tspan></tspan><tspan
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         y="146.71666"
+         x="269.08124"
+         sodipodi:role="line"
+         id="tspan4495">})</tspan></text>
+    <rect
+       y="142.21873"
+       x="116.41667"
+       height="15.874998"
+       width="2.6458282"
+       id="rect3632"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path3636"
+       d="M 116.41667,158.09373 H 78.052083"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3646)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="115.3583"
+       y="157.3"
+       id="text3640"><tspan
+         id="tspan3638"
+         sodipodi:role="line"
+         x="115.3583"
+         y="157.3"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332">signal PLAYER_LIST_CHANGED(</tspan><tspan
+         sodipodi:role="line"
+         x="115.3583"
+         y="159.94583"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan4901"><tspan
+   style="fill:#40b68f;fill-opacity:1"
+   id="tspan4899">players</tspan>, <tspan
+   style="fill:#7b7b7b;fill-opacity:1;-inkscape-font-specification:'Ubuntu Mono Bold';font-family:'Ubuntu Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4909">MIN_PLAYERS</tspan>, <tspan
+   style="fill:#7b7b7b;fill-opacity:1;-inkscape-font-specification:'Ubuntu Mono Bold';font-family:'Ubuntu Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan4911">MAX_PLAYERS</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="115.3583"
+         y="162.59167"
+         style="text-align:end;text-anchor:end;stroke-width:0.26458332"
+         id="tspan4907">)</tspan></text>
+    <rect
+       y="158.09373"
+       x="75.40625"
+       height="2.6458313"
+       width="2.6458333"
+       id="rect3926"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3930"
+       d="M 75.40625,160.73957 H 44.979162"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker3940)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="47.625"
+       y="160.2104"
+       id="text3934"><tspan
+         id="tspan3932"
+         sodipodi:role="line"
+         x="47.625"
+         y="160.2104"
+         style="stroke-width:0.26458332">Add connected players to</tspan><tspan
+         sodipodi:role="line"
+         x="47.625"
+         y="162.85623"
+         style="stroke-width:0.26458332"
+         id="tspan4002">displayed list</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000005, 0.75000005;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 171.97917,114.43748 v 47.625"
+       id="path4004"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000005, 0.75000005;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 205.05208,138.24998 v 23.8125"
+       id="path4006"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4008"
+       d="m 238.125,111.79165 v 50.27083"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000005, 0.75000005;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4010"
+       d="m 271.19792,142.21873 v 19.84375"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000005, 0.75000005;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4012"
+       d="m 76.729162,160.73956 5e-6,1.32292"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000004, 0.75000004;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000004, 0.75000004;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 117.73958,158.09374 0,3.96875"
+       id="path4014"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text2679-7"
+       y="79.512489"
+       x="173.83125"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="79.512489"
+         x="173.83125"
+         id="tspan2677-3"
+         sodipodi:role="line">confirm_create(<tspan
+   style="fill:#af35e9;fill-opacity:1;stroke-width:0.26458332"
+   id="tspan2799-6">response</tspan>)</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path2681-1"
+       d="m 173.30208,80.041652 h 30.42709"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2687-8)" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect32414-6-2-2"
+       width="15.875"
+       height="10.583333"
+       x="243.41666"
+       y="122.37498" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect32416-1-3-9"
+       width="18.520834"
+       height="1.3229167"
+       x="242.09375"
+       y="121.05207" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.02613657px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot32418-8-7-3"
+       transform="matrix(53.989905,0,0,53.989905,-7383.7939,-6100.753)"><flowRegion
+         id="flowRegion32420-7-5-1"
+         style="text-align:justify;text-anchor:start"><use
+           x="0"
+           y="0"
+           xlink:href="#rect32414-6-2-2"
+           id="use32422-9-9-9"
+           width="100%"
+           height="100%"
+           transform="matrix(0.01852198,0,0,0.01852198,136.76249,112.99803)" /></flowRegion><flowPara
+         id="flowPara4439">Note that the object</flowPara><flowPara
+         id="flowPara4443"><flowSpan
+   style="fill:#a5b421;fill-opacity:1"
+   id="flowSpan4447">player_struct</flowSpan> contains the player's id, name, and role (for the game creator, the role is always 'SCREEN')</flowPara></flowRoot>    <rect
+       y="122.37498"
+       x="242.09375"
+       height="11.906253"
+       width="18.520834"
+       id="rect32426-0-2-7"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="148.83331"
+       x="133.61458"
+       height="3.968756"
+       width="2.6458395"
+       id="rect4531"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4535"
+       d="m 119.0625,148.83332 14.55208,0"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4545)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="119.59167"
+       y="148.30415"
+       id="text4539"><tspan
+         id="tspan4537"
+         sodipodi:role="line"
+         x="119.59167"
+         y="148.30415"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332">Update own</tspan><tspan
+         sodipodi:role="line"
+         x="119.59167"
+         y="150.94998"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan4891">nick/role if</tspan><tspan
+         sodipodi:role="line"
+         x="119.59167"
+         y="153.59583"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         id="tspan4893">necessary</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4895"
+       d="m 134.9375,152.80207 0,9.26042"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.75000004, 0.75000004;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>
