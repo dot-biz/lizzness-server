@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="217.36459mm"
+   height="91.687523mm"
+   viewBox="0 0 217.36456 91.687518"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="ui-notes.svg"
+   inkscape:export-filename="/home/disgruntledgm/src/lizzness-server/Documents/ui-notes.png"
+   inkscape:export-xdpi="598.93427"
+   inkscape:export-ydpi="598.93427">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1731"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1729"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1721"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1719"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1613"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1611"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1591"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1589"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1577"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1575"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1545"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1543"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1529"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1527"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1515"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1513"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1496"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1494"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1223"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11653"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path11651"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9317"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path9315" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7474"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7472"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5872"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5870"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4178"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4176"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2942"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2940"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5872-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5870-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0847745"
+     inkscape:cx="345.70995"
+     inkscape:cy="261.99219"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1053"
+     inkscape:window-x="1600"
+     inkscape:window-y="350"
+     inkscape:window-maximized="0"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-bottom="10"
+     fit-margin-right="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815"
+       originx="-24.270818"
+       originy="-180.37497" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-24.270828,-24.937473)">
+    <rect
+       y="51.186188"
+       x="196.51404"
+       height="1.3229153"
+       width="3.4395835"
+       id="rect1065-7"
+       style="fill:#de87aa;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00392157" />
+    <rect
+       style="fill:#87deaa;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00392157"
+       id="rect1063-6"
+       width="3.9687502"
+       height="1.3229166"
+       x="195.82532"
+       y="52.964397" />
+    <rect
+       y="59.66872"
+       x="188.11876"
+       height="1.8520839"
+       width="34.395832"
+       id="rect1980"
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.125, 0.25;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.125, 0.25;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1978"
+       width="33.602085"
+       height="1.8520844"
+       x="188.11876"
+       y="56.229137" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1613)"
+       d="M 106.62708,73.162494 H 95.25001"
+       id="path1605"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1587"
+       d="M 106.62708,85.333327 H 95.250004"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1591)" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 95.25,69.458327 h 11.37708"
+       id="path1218"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       y="49.879162"
+       x="63.235416"
+       height="1.3229153"
+       width="3.4395835"
+       id="rect1065"
+       style="fill:#de87aa;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00392157" />
+    <rect
+       style="fill:#87deaa;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00392157"
+       id="rect1063"
+       width="3.9687502"
+       height="1.3229166"
+       x="63.235416"
+       y="40.618744" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect817"
+       width="51.593754"
+       height="3.968749"
+       x="34.395828"
+       y="65.489578" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.71875"
+       y="68.135414"
+       id="text821"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="35.71875"
+         y="68.135414"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332">ALL UI scenes must:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29166651px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="34.395844"
+       y="31.093718"
+       id="text8678"><tspan
+         sodipodi:role="line"
+         id="tspan8676"
+         x="34.395844"
+         y="31.093718"
+         style="stroke-width:0.26458332">Notes on UI objects (client-side)</tspan></text>
+    <rect
+       y="69.458328"
+       x="34.395828"
+       height="14.552082"
+       width="51.593754"
+       id="rect938"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="35.062492"
+       x="34.395832"
+       height="3.9687514"
+       width="23.812502"
+       id="rect952"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text956"
+       y="37.708328"
+       x="35.189583"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="37.708328"
+         x="35.189583"
+         id="tspan954"
+         sodipodi:role="line">2 types of UI scenes</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect958"
+       width="23.812502"
+       height="22.489584"
+       x="34.395832"
+       y="39.031242" />
+    <text
+       id="text962"
+       y="41.677078"
+       x="35.718754"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="41.677078"
+         x="35.718754"
+         id="tspan960"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#aa4400"
+   id="tspan982">GAME</tspan> UI scenes, which are used</tspan><tspan
+         style="stroke-width:0.26458332"
+         y="43.440968"
+         x="35.718754"
+         sodipodi:role="line"
+         id="tspan968">for part of a game in-progress.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.71875"
+       y="50.937492"
+       id="text974"><tspan
+         id="tspan972"
+         sodipodi:role="line"
+         x="35.71875"
+         y="50.937492"
+         style="stroke-width:0.26458332"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#0044aa"
+   id="tspan984">CORE</tspan> UI scenes, which handle</tspan><tspan
+         sodipodi:role="line"
+         x="35.71875"
+         y="52.701382"
+         style="stroke-width:0.26458332"
+         id="tspan978">connecting / lobby / other</tspan><tspan
+         sodipodi:role="line"
+         x="35.71875"
+         y="54.465271"
+         style="stroke-width:0.26458332"
+         id="tspan980">game-independent functions</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect990"
+       width="23.812502"
+       height="3.9687514"
+       x="62.177082"
+       y="35.062492" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="62.970833"
+       y="37.708328"
+       id="text994"><tspan
+         sodipodi:role="line"
+         id="tspan992"
+         x="62.970833"
+         y="37.708328"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332">2 roles for UI scenes</tspan></text>
+    <rect
+       y="39.031242"
+       x="62.177082"
+       height="22.489584"
+       width="23.812502"
+       id="rect996"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00392157"
+       id="rect1016"
+       width="21.166666"
+       height="9.260417"
+       x="63.499996"
+       y="40.35416" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot1037"><flowRegion
+         id="flowRegion1039"><use
+           x="0"
+           y="0"
+           xlink:href="#rect1016"
+           id="use1041"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara1043"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'"
+   id="flowSpan1089">GUEST</flowSpan> UI scenes, which are shown to an individual player and can display different information to different players.</flowPara></flowRoot>    <rect
+       y="49.614578"
+       x="63.5"
+       height="9.260417"
+       width="21.166666"
+       id="rect1045"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00392157" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot1055"><flowRegion
+         id="flowRegion1057"><use
+           x="0"
+           y="0"
+           xlink:href="#rect1045"
+           id="use1059"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara1061"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'"
+   id="flowSpan1091">HOST</flowSpan> UI scenes, which are displayed to all players at once</flowPara></flowRoot>    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00392157"
+       id="rect1069"
+       width="48.947926"
+       height="13.229146"
+       x="35.71875"
+       y="70.781242" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot1071"><flowRegion
+         id="flowRegion1073"><use
+           x="0"
+           y="0"
+           xlink:href="#rect1069"
+           id="use1075"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara1077">Implement the method <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+   id="flowSpan1079">initialize(&lt;params&gt;)</flowSpan>, which is called after the UI object is added to the tree. The parameters which this method takes vary depending on the type and role of the UI.</flowPara><flowPara
+         id="flowPara1095" /><flowPara
+         id="flowPara1097">Implement the method <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+   id="flowSpan1099">pre_destroy()</flowSpan>, which is called just before the UI object is removed from the tree as part of a UI change. It is called with no parameters.</flowPara></flowRoot>    <rect
+       y="35.062492"
+       x="93.927086"
+       height="3.9687514"
+       width="78.052078"
+       id="rect1101"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1105"
+       y="37.708328"
+       x="95.250008"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="37.708328"
+         x="95.250008"
+         id="tspan1103"
+         sodipodi:role="line">Loading a UI scene</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1107"
+       width="78.052078"
+       height="52.916668"
+       x="93.927086"
+       y="39.031242" />
+    <rect
+       y="40.35416"
+       x="95.25"
+       height="2.6458335"
+       width="75.40625"
+       id="rect1109"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00392157" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot1127"><flowRegion
+         id="flowRegion1129"><use
+           x="0"
+           y="0"
+           xlink:href="#rect1109"
+           id="use1131"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara1141">The process for loading a UI scene depends on the type of UI scene which is to be loaded.</flowPara></flowRoot>    <rect
+       style="fill:none;fill-opacity:1;stroke:#aa4400;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1150"
+       width="37.041668"
+       height="3.9687514"
+       x="95.25"
+       y="42.999992" />
+    <rect
+       y="42.999992"
+       x="133.61458"
+       height="3.9687514"
+       width="37.041672"
+       id="rect1154"
+       style="fill:none;fill-opacity:1;stroke:#0044aa;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="96.572914"
+       y="45.645828"
+       id="text1158"><tspan
+         sodipodi:role="line"
+         id="tspan1156"
+         x="96.572914"
+         y="45.645828"
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#aa4400;fill-opacity:1"
+   id="tspan1168">GAME</tspan> scenes</tspan></text>
+    <text
+       id="text1162"
+       y="45.645828"
+       x="134.9375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="45.645828"
+         x="134.9375"
+         id="tspan1160"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#0044aa;fill-opacity:1"
+   id="tspan1172">CORE</tspan> scenes</tspan></text>
+    <rect
+       y="46.968742"
+       x="95.249992"
+       height="43.65625"
+       width="37.041676"
+       id="rect1164"
+       style="fill:none;fill-opacity:1;stroke:#aa4400;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#0044aa;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1166"
+       width="37.041672"
+       height="43.65625"
+       x="133.61458"
+       y="46.968742" />
+    <rect
+       y="48.29166"
+       x="96.572914"
+       height="14.552084"
+       width="34.395836"
+       id="rect1176"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00392157" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot1188"><flowRegion
+         id="flowRegion1190"><use
+           x="0"
+           y="0"
+           xlink:href="#rect1176"
+           id="use1192"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara1196"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#aa4400;fill-opacity:1"
+   id="flowSpan1733">GAME</flowSpan> UI scenes can only be loaded while a game is in-progress (this can usually be assumed from context, but if it must be checked, call $/root/Client.<flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+   id="flowSpan1751">game_in_progress()</flowSpan>. To load a scene, call $/root/Client.<flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+   id="flowSpan1753">ui_change(</flowSpan><flowSpan
+   style="fill:#8d5fd3;fill-opacity:1"
+   id="flowSpan1615">path_to_new_ui</flowSpan><flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+   id="flowSpan1755">)</flowSpan>, where path_to_new_ui is the resource path to the new UI object's scene. /root/Client will then unload the current UI and replace it with the new one.</flowPara></flowRoot>    <rect
+       y="65.489578"
+       x="103.1875"
+       height="1.9843752"
+       width="7.9374952"
+       id="rect1198"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1202"
+       y="66.812492"
+       x="107.15627"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.13229166"
+         y="66.812492"
+         x="107.15627"
+         id="tspan1200"
+         sodipodi:role="line">/root/Client</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1204"
+       d="m 107.15626,67.473952 v 1.984373"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.375, 0.375;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="69.458328"
+       x="106.62708"
+       height="15.875"
+       width="1.0583339"
+       id="rect1206"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1208"
+       width="7.9374952"
+       height="1.9843752"
+       x="116.41667"
+       y="65.489578" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="120.38544"
+       y="66.812492"
+       id="text1212"><tspan
+         sodipodi:role="line"
+         id="tspan1210"
+         x="120.38544"
+         y="66.812492"
+         style="text-align:center;text-anchor:middle;stroke-width:0.13229166">/root/UI</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.37500001, 0.37500001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 120.38544,67.473952 -2e-5,5.953125"
+       id="path1214"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1216"
+       width="1.0583364"
+       height="2.1166656"
+       x="119.85625"
+       y="73.427078" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="95.84214"
+       y="68.929161"
+       id="text1486"><tspan
+         sodipodi:role="line"
+         id="tspan1484"
+         x="95.84214"
+         y="68.929161"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166">call ui_change(</tspan><tspan
+         sodipodi:role="line"
+         x="95.84214"
+         y="70.252075"
+         style="text-align:start;text-anchor:start;fill:#8d5fd3;stroke-width:0.13229166"
+         id="tspan1488">path_to_new_ui</tspan><tspan
+         sodipodi:role="line"
+         x="95.84214"
+         y="71.574997"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         id="tspan1490">)</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1492"
+       d="m 107.68542,73.427077 h 12.17083"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1496)" />
+    <text
+       id="text1504"
+       y="73.162491"
+       x="108.21458"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       xml:space="preserve"><tspan
+         id="tspan1502"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         y="73.162491"
+         x="108.21458"
+         sodipodi:role="line">pre_destroy()</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1515)"
+       d="M 119.99967,75.543744 H 107.82884"
+       id="path1511"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="115.09375"
+       y="75.27916"
+       id="text1519"><tspan
+         sodipodi:role="line"
+         x="115.09375"
+         y="75.27916"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         id="tspan1517">return</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1529)"
+       d="m 107.68542,77.395827 h 12.17083"
+       id="path1521"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="108.21458"
+       y="77.131248"
+       id="text1525"><tspan
+         sodipodi:role="line"
+         x="108.21458"
+         y="77.131248"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         id="tspan1523">queue_free()</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1531"
+       d="m 120.38542,75.543744 v 1.852083"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.37500001, 0.37500001;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 119.59167,76.602075 1.5875,1.5875"
+       id="path1533"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1535"
+       d="m 121.17917,76.602075 -1.5875,1.5875"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1537"
+       d="m 107.68542,80.041661 h 8.73125"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1545)" />
+    <text
+       id="text1541"
+       y="79.777084"
+       x="108.21458"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       xml:space="preserve"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         y="79.777084"
+         x="108.21458"
+         sodipodi:role="line"
+         id="tspan1547">load and create from </tspan><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         y="80.659027"
+         x="108.21458"
+         sodipodi:role="line"
+         id="tspan1559"><tspan
+   style="fill:#8d5fd3;fill-opacity:1"
+   id="tspan1601">path_to_new_ui</tspan>, and</tspan><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         y="81.54097"
+         x="108.21458"
+         sodipodi:role="line"
+         id="tspan1563">add to tree</tspan></text>
+    <rect
+       y="78.98333"
+       x="116.41666"
+       height="2.1166642"
+       width="7.93751"
+       id="rect1549"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1553"
+       y="80.306244"
+       x="120.38542"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8d5fd3;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;fill:#8d5fd3;fill-opacity:1;stroke-width:0.13229166"
+         y="80.306244"
+         x="120.38542"
+         id="tspan1551"
+         sodipodi:role="line">/root/UI</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1565"
+       d="m 120.38542,81.099994 v 2.910417"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.37500001, 0.37500001;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="84.010414"
+       x="119.85625"
+       height="2.1166656"
+       width="1.0583364"
+       id="rect1567"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1577)"
+       d="m 107.68542,84.010411 h 12.17083"
+       id="path1569"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="108.21458"
+       y="83.745827"
+       id="text1573"><tspan
+         sodipodi:role="line"
+         x="108.21458"
+         y="83.745827"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         id="tspan1571">initialize(</tspan><tspan
+         sodipodi:role="line"
+         x="108.21458"
+         y="85.068741"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         id="tspan1579">client, game</tspan><tspan
+         sodipodi:role="line"
+         x="108.21458"
+         y="86.391663"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         id="tspan1585">)</tspan></text>
+    <text
+       id="text1595"
+       y="85.068741"
+       x="102.92292"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       xml:space="preserve"><tspan
+         id="tspan1593"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         y="85.068741"
+         x="102.92292"
+         sodipodi:role="line">return</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.37500001, 0.37500001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 120.38542,86.127077 v 3.175"
+       id="path1597"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1599"
+       d="m 107.15625,85.333327 v 3.96875"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.37500001, 0.37500001;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="106.3625"
+       y="72.897911"
+       id="text1609"><tspan
+         sodipodi:role="line"
+         x="106.3625"
+         y="72.897911"
+         style="text-align:end;text-anchor:end;stroke-width:0.13229166"
+         id="tspan1607">signal UI_CHANGE</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1617"
+       d="M 144.99167,73.162486 H 133.6146"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1721)" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1591)"
+       d="M 144.99167,85.333322 H 133.6146"
+       id="path1619"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1621"
+       d="m 133.61459,69.458322 h 11.37708"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1731)" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1623"
+       width="7.9374952"
+       height="1.9843752"
+       x="141.55208"
+       y="65.489578" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="145.52086"
+       y="66.812492"
+       id="text1627"><tspan
+         sodipodi:role="line"
+         id="tspan1625"
+         x="145.52086"
+         y="66.812492"
+         style="text-align:center;text-anchor:middle;stroke-width:0.13229166">/root/Client</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.375, 0.375;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 145.52085,67.473947 V 69.45832"
+       id="path1629"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1631"
+       width="1.0583339"
+       height="15.875"
+       x="144.99167"
+       y="69.458328" />
+    <rect
+       y="65.489578"
+       x="154.78125"
+       height="1.9843752"
+       width="7.9374952"
+       id="rect1633"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1637"
+       y="66.812492"
+       x="158.75002"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.13229166"
+         y="66.812492"
+         x="158.75002"
+         id="tspan1635"
+         sodipodi:role="line">/root/UI</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1639"
+       d="m 158.75003,67.473947 -2e-5,5.953125"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.37500001, 0.37500001;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="73.427078"
+       x="158.22083"
+       height="2.1166656"
+       width="1.0583364"
+       id="rect1641"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1649"
+       y="69.193741"
+       x="134.14375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       xml:space="preserve"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         y="69.193741"
+         x="134.14375"
+         id="tspan1643"
+         sodipodi:role="line">call ui_change_raw(</tspan><tspan
+         id="tspan1645"
+         style="text-align:start;text-anchor:start;fill:#8d5fd3;stroke-width:0.13229166"
+         y="70.516655"
+         x="134.14375"
+         sodipodi:role="line">path_to_new_ui,</tspan><tspan
+         id="tspan1647"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         y="71.839577"
+         x="134.14375"
+         sodipodi:role="line"><tspan
+   id="tspan1725"
+   style="text-align:start;text-anchor:start;fill:#8d5fd3;stroke-width:0.13229166"><tspan
+   style="fill:#ff2a7f"
+   id="tspan1727">args</tspan> </tspan>)</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1496)"
+       d="m 146.05001,73.427072 h 12.17083"
+       id="path1651"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="146.57916"
+       y="73.162491"
+       id="text1655"><tspan
+         sodipodi:role="line"
+         x="146.57916"
+         y="73.162491"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         id="tspan1653">pre_destroy()</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1657"
+       d="M 158.36426,75.543739 H 146.19343"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1515)" />
+    <text
+       id="text1661"
+       y="75.27916"
+       x="153.45833"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       xml:space="preserve"><tspan
+         id="tspan1659"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         y="75.27916"
+         x="153.45833"
+         sodipodi:role="line">return</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1663"
+       d="m 146.05001,77.395822 h 12.17083"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1529)" />
+    <text
+       id="text1667"
+       y="77.131248"
+       x="146.57916"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       xml:space="preserve"><tspan
+         id="tspan1665"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         y="77.131248"
+         x="146.57916"
+         sodipodi:role="line">queue_free()</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.37500001, 0.37500001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 158.75001,75.543739 v 1.852083"
+       id="path1669"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1671"
+       d="m 157.95626,76.60207 1.5875,1.5875"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 159.54376,76.60207 -1.5875,1.5875"
+       id="path1673"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1545)"
+       d="m 146.05001,80.041656 h 8.73125"
+       id="path1675"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.70555556px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="146.57916"
+       y="79.777084"
+       id="text1685"><tspan
+         id="tspan1677"
+         sodipodi:role="line"
+         x="146.57916"
+         y="79.777084"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166">load and create from </tspan><tspan
+         id="tspan1681"
+         sodipodi:role="line"
+         x="146.57916"
+         y="80.659027"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"><tspan
+   id="tspan1679"
+   style="fill:#8d5fd3;fill-opacity:1">path_to_new_ui</tspan>, and</tspan><tspan
+         id="tspan1683"
+         sodipodi:role="line"
+         x="146.57916"
+         y="81.54097"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166">add to tree</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1687"
+       width="7.93751"
+       height="2.1166642"
+       x="154.78123"
+       y="78.98333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8d5fd3;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="158.75"
+       y="80.306244"
+       id="text1691"><tspan
+         sodipodi:role="line"
+         id="tspan1689"
+         x="158.75"
+         y="80.306244"
+         style="text-align:center;text-anchor:middle;fill:#8d5fd3;fill-opacity:1;stroke-width:0.13229166">/root/UI</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.37500001, 0.37500001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 158.75001,81.099989 v 2.910417"
+       id="path1693"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1695"
+       width="1.0583364"
+       height="2.1166656"
+       x="158.22083"
+       y="84.010414" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1697"
+       d="m 146.05001,84.010406 h 12.17083"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1577)" />
+    <text
+       id="text1705"
+       y="83.745827"
+       x="146.57916"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       xml:space="preserve"><tspan
+         id="tspan1699"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         y="83.745827"
+         x="146.57916"
+         sodipodi:role="line">initialize(</tspan><tspan
+         id="tspan1701"
+         style="text-align:start;text-anchor:start;fill:#ff2a7f;fill-opacity:1;stroke-width:0.13229166"
+         y="85.068741"
+         x="146.57916"
+         sodipodi:role="line">args</tspan><tspan
+         id="tspan1703"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         y="86.391663"
+         x="146.57916"
+         sodipodi:role="line">)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       x="141.28751"
+       y="85.068741"
+       id="text1709"><tspan
+         sodipodi:role="line"
+         x="141.28751"
+         y="85.068741"
+         style="text-align:start;text-anchor:start;stroke-width:0.13229166"
+         id="tspan1707">return</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1711"
+       d="m 158.75001,86.127072 v 3.175"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.37500001, 0.37500001;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.37500001, 0.37500001;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 145.52084,85.333322 v 3.96875"
+       id="path1713"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text1717"
+       y="72.897911"
+       x="144.72708"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.05833328px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229166"
+       xml:space="preserve"><tspan
+         id="tspan1715"
+         style="text-align:end;text-anchor:end;stroke-width:0.13229166"
+         y="72.897911"
+         x="144.72708"
+         sodipodi:role="line">signal UI_CHANGE</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00392157"
+       id="rect1737"
+       width="34.395836"
+       height="14.552084"
+       x="134.9375"
+       y="48.29166" />
+    <flowRoot
+       id="flowRoot1749"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       transform="translate(38.364586)"><flowRegion
+         id="flowRegion1741"><use
+           height="100%"
+           width="100%"
+           id="use1739"
+           xlink:href="#rect1176"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         id="flowPara1747"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#0044aa;fill-opacity:1"
+   id="flowSpan1763">CORE</flowSpan> UI scenes can be loaded at any time. They are loaded through a similar process to <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#aa4400;fill-opacity:1"
+   id="flowSpan1767">GAME</flowSpan> scenes, but using the <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+   id="flowSpan1757">ui_change_raw()</flowSpan> function. The arguments to be passed to the UI's <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+   id="flowSpan1759">initialize()</flowSpan> function must be provided to the <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+   id="flowSpan1761">ui_change_raw()</flowSpan> function (as an array).</flowPara></flowRoot>    <rect
+       y="87.979164"
+       x="34.395832"
+       height="3.968749"
+       width="51.593754"
+       id="rect1771"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1775"
+       y="90.625"
+       x="35.718754"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="90.625"
+         x="35.718754"
+         id="tspan1773"
+         sodipodi:role="line"><tspan
+   style="fill:#aa4400;fill-opacity:1"
+   id="tspan1822">GAME</tspan> UI scenes must:</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1777"
+       width="51.59375"
+       height="14.55208"
+       x="34.395832"
+       y="91.947914" />
+    <rect
+       y="93.270828"
+       x="35.718754"
+       height="13.229166"
+       width="48.947914"
+       id="rect1779"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00392157" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot1804"
+       transform="translate(1.2715657e-6,-7.9375036)"><flowRegion
+         id="flowRegion1806"><use
+           x="0"
+           y="0"
+           xlink:href="#rect1779"
+           id="use1808"
+           width="100%"
+           height="100%"
+           transform="translate(-1.2715657e-6,7.9375036)" /></flowRegion><flowPara
+         id="flowPara1810">Implement <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+   id="flowSpan1812">initialize()</flowSpan> to take exactly two parameters: the SingleClient node representing the player, and a Game-type node representing the current active game. The final method signature should be:</flowPara><flowPara
+         id="flowPara1814" /><flowPara
+         id="flowPara1816">   <flowSpan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+   id="flowSpan1818">initialize(player, game)</flowSpan></flowPara></flowRoot>    <rect
+       y="35.062473"
+       x="179.91667"
+       height="3.968749"
+       width="51.593754"
+       id="rect1824"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text1828"
+       y="37.708309"
+       x="181.23959"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="text-align:start;text-anchor:start;stroke-width:0.26458332"
+         y="37.708309"
+         x="181.23959"
+         id="tspan1826"
+         sodipodi:role="line">File Naming and Directory Conventions</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1830"
+       width="51.593754"
+       height="47.625"
+       x="179.91667"
+       y="39.031223" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 187.85417,69.458305 v 2.645833 H 190.5"
+       id="path1848"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.125, 0.25000001;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 187.85417,74.749971 V 73.427054"
+       id="path1850"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 187.85417,72.104137 v 1.322917"
+       id="path1852"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1856"
+       d="m 187.85417,74.749971 c 2e-5,-0.214385 0,0.440973 0,1.322917 H 190.5"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:nodetypes="ccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1858"
+       d="M 187.85417,84.010388 V 82.687471"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.125, 0.25000001;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1860"
+       d="m 187.85417,76.072887 v 6.614584"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1862"
+       d="m 189.17709,76.072887 v 2.645833 h 2.64583"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="190.76459"
+       y="72.633301"
+       id="text1866"><tspan
+         sodipodi:role="line"
+         id="tspan1864"
+         x="190.76459"
+         y="72.633301"
+         style="fill:#0044aa;fill-opacity:1;stroke-width:0.26458332">UI</tspan></text>
+    <text
+       id="text1870"
+       y="72.633301"
+       x="193.41043"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#0044aa;fill-opacity:1;stroke-width:0.26458332"
+         y="72.633301"
+         x="193.41043"
+         id="tspan1868"
+         sodipodi:role="line">&lt;--Store CORE UI scenes here</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="190.76459"
+       y="76.602051"
+       id="text1874"><tspan
+         sodipodi:role="line"
+         id="tspan1872"
+         x="190.76459"
+         y="76.602051"
+         style="stroke-width:0.26458332">Game</tspan></text>
+    <text
+       id="text1878"
+       y="79.247887"
+       x="192.08751"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="79.247887"
+         x="192.08751"
+         id="tspan1876"
+         sodipodi:role="line">&lt;game_title&gt;</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 190.50001,78.718721 v 2.645833 h 2.64583"
+       id="path1880"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text1884"
+       y="81.893723"
+       x="193.41043"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#aa4400;fill-opacity:1;stroke-width:0.26458332"
+         y="81.893723"
+         x="193.41043"
+         id="tspan1882"
+         sodipodi:role="line">UI</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.125, 0.25000001;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 189.17709,84.010388 V 82.687471"
+       id="path1886"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 189.17709,78.718721 v 3.96875"
+       id="path1888"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1890"
+       d="M 190.50001,84.010388 V 82.687471"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.125, 0.25000001;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1892"
+       d="m 190.50001,81.364554 v 1.322917"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.12499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="195.79167"
+       y="81.893723"
+       id="text1896"><tspan
+         sodipodi:role="line"
+         id="tspan1894"
+         x="195.79167"
+         y="81.893723"
+         style="fill:#aa4400;fill-opacity:1;stroke-width:0.26458332">&lt;--Store GAME UI scenes here</tspan></text>
+    <text
+       id="text1900"
+       y="68.929138"
+       x="187.85417"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="68.929138"
+         x="187.85417"
+         id="tspan1898"
+         sodipodi:role="line">Project Root</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00392157"
+       id="rect1069-3"
+       width="48.947929"
+       height="26.458334"
+       x="181.23958"
+       y="40.354137" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:1.25;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot1917"><flowRegion
+         id="flowRegion1919"><use
+           x="0"
+           y="0"
+           xlink:href="#rect1069-3"
+           id="use1921"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara1931">UI scene files should be placed within an appropriate directory within the project - for <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#0044aa;fill-opacity:1"
+   id="flowSpan1944">CORE</flowSpan> UI scenes, this is /UI, and for <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#aa4400;fill-opacity:1"
+   id="flowSpan1948">GAME</flowSpan> UI scenes, this is /Game/&lt;game_title&gt;/UI.</flowPara><flowPara
+         id="flowPara1940" /><flowPara
+         id="flowPara1942">Files should be named according to role. For example, the Morning Meeting UI for Lizzness would be two separate scenes - one to be shown to all players (<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'"
+   id="flowSpan2012">HOST</flowSpan> role), and the other to be shown to each player individually (<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'"
+   id="flowSpan2014">GUEST</flowSpan> role). This is a <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#aa4400;fill-opacity:1"
+   id="flowSpan1952">GAME</flowSpan> scene, so the files are located at </flowPara><flowPara
+         id="flowPara1964">          RES://Game/Lizzness/UI/MorningMeeting_HOST.tscn</flowPara><flowPara
+         id="flowPara1960">and </flowPara><flowPara
+         id="flowPara1962">          RES://Game/Lizzness/UI/MorningMeeting_GUEST.tscn</flowPara><flowPara
+         id="flowPara1968">respectively.</flowPara><flowPara
+         id="flowPara1970" /></flowRoot>  </g>
+</svg>
