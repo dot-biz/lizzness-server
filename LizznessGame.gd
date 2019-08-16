@@ -1,14 +1,17 @@
 extends Node
 
-export var MAX_PLAYERS: int = 8
-export var MIN_PLAYERS: int = 2
+export var MAX_PLAYERS: int = 18
+export var MIN_PLAYERS: int = 5
 signal READY_TO_START
+
+const PLAYER_COLORS = [Color.blue, Color.black, Color.red, Color.darkgreen, Color.darkorange, Color.blueviolet]
+
 var players = []
 var room_code: int
 
 enum {STATE_LOBBY, STATE_PLAYING, STATE_DISSOLVING}
 enum {GAME_DAY_MORNING, GAME_DAY_WORKDAY, GAME_DAY_AFTERNOON, GAME_DAY_MIDNIGHT}
-enum CLIENT_ROLE {PLAYER, ADMIN, SCREEN}
+enum CLIENT_ROLE {GUEST, ADMIN, HOST}
 var game_state: int
 var day_number: int
 var day_state: int
@@ -16,13 +19,14 @@ var day_state: int
 var human_win_count: int
 
 func _ready():
-	pass
+	get_tree().connect("network_peer_disconnected", self, "_on_player_disconnect")
 
 func initialize(client_id: int, room_code: int):
 	players.append({
 		'id': client_id,
 		'nick': str(client_id),
-		'role': CLIENT_ROLE.SCREEN
+		'role': CLIENT_ROLE.HOST,
+		'color': Color.black
 	})
 	self.room_code = room_code
 	self.game_state = STATE_LOBBY
@@ -55,13 +59,13 @@ func addPlayer(client_id: int):
 	var player_dict = {
 		'id': client_id,
 		'nick': str(client_id),
-		'role': CLIENT_ROLE.PLAYER
+		'role': CLIENT_ROLE.GUEST,
+		'color': PLAYER_COLORS[randi() % len(PLAYER_COLORS)]
 	}
 	
 	players.append(player_dict)
 	
 	var player_obj = get_node('/root/clients/%s' % str(client_id))
-	player_obj.connect('DISCONNECTED', self, '_on_player_disconnect')
 	
 	synchronize_player_list()
 	
@@ -74,7 +78,7 @@ func synchronize_player_list():
 	for player in players:
 		if player['role'] == CLIENT_ROLE.ADMIN:
 			admin_exists = true
-		if player['role'] == CLIENT_ROLE.SCREEN:
+		if player['role'] == CLIENT_ROLE.HOST:
 			screen_exists = true
 	
 	if not screen_exists:
@@ -83,6 +87,7 @@ func synchronize_player_list():
 			'reason': 9000,
 			'human': 'The player who started the game has disconnected!'
 		})
+		return
 	else:
 		print('\t> Screen still connected.')
 	
@@ -92,7 +97,7 @@ func synchronize_player_list():
 		else:
 			print('\t> No admin exists! Promoting first player!')
 			for player in players:
-				if player['role'] != CLIENT_ROLE.SCREEN:
+				if player['role'] != CLIENT_ROLE.HOST:
 					print('\t> Promoting player %s.' % str(player['id']))
 					player['role'] = CLIENT_ROLE.ADMIN
 					break
@@ -133,3 +138,4 @@ func do_room_dissolve(reason):
 	game_state = STATE_DISSOLVING
 	for player in players:
 		get_node('/root/clients/%s' % player['id']).kick(reason)
+	get_node('/root/games').finish_dissolve(self)

@@ -46,3 +46,6 @@ func join_room(client_id: int, room_code: int):
 		'room_code': room_code,
 		'player': add_attempt['player']
 	}
+
+func finish_dissolve(room):
+	room.queue_free()
