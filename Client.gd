@@ -9,7 +9,6 @@ var nickname: String
 
 func initialize(id: int):
 	self.id = id
-	self.nickname = str(id)
 
 remote func create_room(game_name: String):
 	emit_signal('CREATE_ROOM', get_tree().get_rpc_sender_id(), game_name)

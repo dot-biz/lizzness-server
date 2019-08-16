@@ -118,6 +118,22 @@ func _on_player_disconnect(id):
 	players = new_player_list
 	synchronize_player_list()
 
+remote func change_nick(new_nick):
+	if not validate_nick(new_nick):
+		return
+	var requesting_player_id = get_tree().get_rpc_sender_id()
+	var change = false
+	for player in players:
+		if player['id'] == requesting_player_id:
+			player['nick'] = new_nick
+			change = true
+	
+	if change:
+		synchronize_player_list()
+
+func validate_nick(nick):
+	return len(nick) >= 1 and len(nick) <= 8
+
 remote func start_game():
 	if game_state != STATE_LOBBY:
 		return
